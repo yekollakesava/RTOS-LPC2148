@@ -1,0 +1,13 @@
+led_lcd.o: led_lcd.c
+led_lcd.o: C:\Keil\ARM\Inc\Philips\lpc214x.h
+led_lcd.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\FreeRTOS.h
+led_lcd.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+led_lcd.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+led_lcd.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\FreeRTOSConfig.h
+led_lcd.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\projdefs.h
+led_lcd.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\portable.h
+led_lcd.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\deprecated_definitions.h
+led_lcd.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\..\..\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h
+led_lcd.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\mpu_wrappers.h
+led_lcd.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\task.h
+led_lcd.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\list.h

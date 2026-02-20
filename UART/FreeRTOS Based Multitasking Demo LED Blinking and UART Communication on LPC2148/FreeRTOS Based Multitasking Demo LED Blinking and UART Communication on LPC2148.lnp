@@ -1,0 +1,5 @@
+--cpu ARM7TDMI "heap_4.o" "tasks.o" "list.o" "queue.o" ".\startup.o" "port.o" ".\portasm.o" "led_blink_uart_multitasking.o" 
+--strict --scatter "FreeRTOS Based Multitasking Demo LED Blinking and UART Communication on LPC2148.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\FreeRTOS Based Multitasking Demo LED Blinking and UART Communication on LPC2148.map" -o "FreeRTOS Based Multitasking Demo LED Blinking and UART Communication on LPC2148.axf"

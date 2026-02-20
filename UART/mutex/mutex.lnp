@@ -1,0 +1,5 @@
+--cpu ARM7TDMI "mutex.o" "list.o" "queue.o" "tasks.o" "heap_4.o" "port.o" ".\portasm.o" ".\startup.o" 
+--strict --scatter "mutex.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\mutex.map" -o mutex.axf

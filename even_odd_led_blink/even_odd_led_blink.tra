@@ -1,0 +1,27 @@
+*** Creating Trace Output File 'even_odd_led_blink.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"list.o"'
+### List of Objects: adding '"queue.o"'
+### List of Objects: adding '"tasks.o"'
+### List of Objects: adding '"port.o"'
+### List of Objects: adding '".\portasm.o"'
+### List of Objects: adding '"heap_2.o"'
+### List of Objects: adding '".\startup.o"'
+### List of Objects: adding '"even_odd_led.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "list.o" "queue.o" "tasks.o" "port.o" ".\portasm.o" "heap_2.o" ".\startup.o" "even_odd_led.o" 
+--strict --scatter "even_odd_led_blink.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\even_odd_led_blink.map" -o even_odd_led_blink.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'even_odd_led_blink.axf'
+### ADS-LD Command File: 'even_odd_led_blink.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'even_odd_led_blink.lnp', Handle=0x00000A48
+### Writing '.lnp' file
+### ADS-LD Command file 'even_odd_led_blink.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

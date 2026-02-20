@@ -1,0 +1,14 @@
+heap_4.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\portable\MemMang\heap_4.c
+heap_4.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+heap_4.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\FreeRTOS.h
+heap_4.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+heap_4.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+heap_4.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\FreeRTOSConfig.h
+heap_4.o: C:\Keil\ARM\Inc\Philips\lpc214x.h
+heap_4.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\projdefs.h
+heap_4.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\portable.h
+heap_4.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\deprecated_definitions.h
+heap_4.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\..\..\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h
+heap_4.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\mpu_wrappers.h
+heap_4.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\task.h
+heap_4.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\list.h

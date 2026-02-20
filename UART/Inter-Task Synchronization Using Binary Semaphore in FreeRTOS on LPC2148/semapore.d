@@ -1,0 +1,16 @@
+semapore.o: semapore.c
+semapore.o: C:\Keil\ARM\Inc\Philips\lpc214x.h
+semapore.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\FreeRTOS.h
+semapore.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+semapore.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+semapore.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\FreeRTOSConfig.h
+semapore.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\projdefs.h
+semapore.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\portable.h
+semapore.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\deprecated_definitions.h
+semapore.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\..\..\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h
+semapore.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\mpu_wrappers.h
+semapore.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\task.h
+semapore.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\list.h
+semapore.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\semphr.h
+semapore.o: ..\..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\queue.h
+semapore.o: uart.h

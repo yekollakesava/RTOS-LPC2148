@@ -1,0 +1,13 @@
+even_odd_led.o: even_odd_led.c
+even_odd_led.o: C:\Keil\ARM\Inc\Philips\lpc214x.h
+even_odd_led.o: ..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\FreeRTOS.h
+even_odd_led.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+even_odd_led.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+even_odd_led.o: ..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\FreeRTOSConfig.h
+even_odd_led.o: ..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\projdefs.h
+even_odd_led.o: ..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\portable.h
+even_odd_led.o: ..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\deprecated_definitions.h
+even_odd_led.o: ..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\..\..\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h
+even_odd_led.o: ..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\mpu_wrappers.h
+even_odd_led.o: ..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\task.h
+even_odd_led.o: ..\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\list.h

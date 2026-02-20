@@ -1,0 +1,27 @@
+*** Creating Trace Output File 'led_blink.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"heap_4.o"'
+### List of Objects: adding '"list.o"'
+### List of Objects: adding '"queue.o"'
+### List of Objects: adding '"tasks.o"'
+### List of Objects: adding '"port.o"'
+### List of Objects: adding '".\portasm.o"'
+### List of Objects: adding '".\startup.o"'
+### List of Objects: adding '"led.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "heap_4.o" "list.o" "queue.o" "tasks.o" "port.o" ".\portasm.o" ".\startup.o" "led.o" 
+C:\Keil\ARM\RV31\LIB\RTX_ARM_L.LIB --strict --scatter "led_blink.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\led_blink.map" -o led_blink.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'led_blink.axf'
+### ADS-LD Command File: 'led_blink.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'led_blink.lnp', Handle=0x00001024
+### Writing '.lnp' file
+### ADS-LD Command file 'led_blink.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

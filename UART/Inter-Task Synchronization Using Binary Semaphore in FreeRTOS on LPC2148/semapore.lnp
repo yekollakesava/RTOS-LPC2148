@@ -1,0 +1,5 @@
+--cpu ARM7TDMI "list.o" "queue.o" "tasks.o" "port.o" ".\portasm.o" "heap_4.o" ".\startup.o" "semapore.o" 
+--strict --scatter "semapore.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\semapore.map" -o semapore.axf

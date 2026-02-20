@@ -1,0 +1,13 @@
+led_blink_freertos.o: led_blink_freertos.c
+led_blink_freertos.o: C:\Keil\ARM\Inc\Philips\lpc214x.h
+led_blink_freertos.o: C:\Keil\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\FreeRTOS.h
+led_blink_freertos.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+led_blink_freertos.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+led_blink_freertos.o: C:\Keil\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\FreeRTOSConfig.h
+led_blink_freertos.o: C:\Keil\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\projdefs.h
+led_blink_freertos.o: C:\Keil\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\portable.h
+led_blink_freertos.o: C:\Keil\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\deprecated_definitions.h
+led_blink_freertos.o: C:\Keil\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\..\..\Source\portable\RVDS\ARM7_LPC21xx\portmacro.h
+led_blink_freertos.o: C:\Keil\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\mpu_wrappers.h
+led_blink_freertos.o: C:\Keil\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\task.h
+led_blink_freertos.o: C:\Keil\FreeRTOS_V9.0.0rc2\FreeRTOS\Source\include\list.h

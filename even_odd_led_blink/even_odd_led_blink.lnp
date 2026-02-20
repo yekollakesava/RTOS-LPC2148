@@ -1,0 +1,5 @@
+--cpu ARM7TDMI "list.o" "queue.o" "tasks.o" "port.o" ".\portasm.o" "heap_2.o" ".\startup.o" "even_odd_led.o" 
+--strict --scatter "even_odd_led_blink.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\even_odd_led_blink.map" -o even_odd_led_blink.axf
