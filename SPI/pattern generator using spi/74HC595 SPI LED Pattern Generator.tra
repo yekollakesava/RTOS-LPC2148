@@ -1,0 +1,27 @@
+*** Creating Trace Output File '74HC595 SPI LED Pattern Generator.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"list.o"'
+### List of Objects: adding '"queue.o"'
+### List of Objects: adding '"tasks.o"'
+### List of Objects: adding '"port.o"'
+### List of Objects: adding '".\portasm.o"'
+### List of Objects: adding '".\startup.o"'
+### List of Objects: adding '"led_pattern.o"'
+### List of Objects: adding '"heap_4.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "list.o" "queue.o" "tasks.o" "port.o" ".\portasm.o" ".\startup.o" "led_pattern.o" "heap_4.o" 
+--strict --scatter "74HC595 SPI LED Pattern Generator.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\74HC595 SPI LED Pattern Generator.map" -o "74HC595 SPI LED Pattern Generator.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '74HC595 SPI LED Pattern Generator.axf'
+### ADS-LD Command File: '74HC595 SPI LED Pattern Generator.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '74HC595 SPI LED Pattern Generator.lnp', Handle=0x000012C0
+### Writing '.lnp' file
+### ADS-LD Command file '74HC595 SPI LED Pattern Generator.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

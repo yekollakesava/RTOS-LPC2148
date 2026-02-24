@@ -1,0 +1,5 @@
+--cpu ARM7TDMI "list.o" "queue.o" "tasks.o" "port.o" ".\portasm.o" ".\startup.o" "led_pattern.o" "heap_4.o" 
+--strict --scatter "74HC595 SPI LED Pattern Generator.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\74HC595 SPI LED Pattern Generator.map" -o "74HC595 SPI LED Pattern Generator.axf"
